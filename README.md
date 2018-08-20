@@ -22,3 +22,6 @@ Finally, in the landcover change composite, I performed edge transformations on 
 <br>
 <br>
 In the end, using google earth engine I’ve processed over 60 gb of time sequenced hyperspectral remotely sensed data for larger supervised and unsupervised classifications. Currently I am working to extract significant features of reflectance curves from the identified path to improve the ability to predict paths on unknown terrain. 
+<br>
+<br>
+I've included snippets of code to give an example of the code I used in the various modules in Google Earth Engine.  For each location, a series (pipeline) of module were used to streamline the processing of the remotely sensed data.
