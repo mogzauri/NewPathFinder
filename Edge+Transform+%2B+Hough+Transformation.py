@@ -1,9 +1,4 @@
 
-# coding: utf-8
-
-# In[ ]:
-
-
 # Canny Edge transformation ()
 
 var image = ee.Image(LandSatScence).select(Bands);
